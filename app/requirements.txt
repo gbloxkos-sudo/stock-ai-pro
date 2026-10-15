@@ -1,0 +1,13 @@
+streamlit>=1.38
+pandas>=2.0
+numpy>=1.24
+yfinance>=0.2.41
+scikit-learn>=1.3
+requests>=2.31
+plotly>=5.24
+matplotlib>=3.7
+scipy>=1.11
+langchain-ollama>=0.1.0
+joblib>=1.3
+# Optional (unlocks full power — app self-heals without them):
+# tensorflow>=2.15   # LSTM + RL deep learning; without it, tabs use honest fallback
