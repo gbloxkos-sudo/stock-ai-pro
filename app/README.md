@@ -1,6 +1,6 @@
 # GBLOXK OS AI STOCK TRADER — Super Advanced Edition
 
-> **GBLOXK_OS LLC** — AI-powered market terminal fusing live data, multi-agent consensus, deep learning, and anti-hallucination engineering across **all markets**: stocks, crypto, forex, indices, commodities, ETFs, and global ADRs.
+> AI-powered market terminal fusing live data, multi-agent consensus, deep learning, and anti-hallucination engineering across **all markets**: stocks, crypto, forex, indices, commodities, ETFs, and global ADRs.
 
 ⚠️ **Honesty contract:** No AI can *guarantee* doubling your money or a "100 % best" investment. This tool gives you the highest-expected-value pick **from live facts**, with calibrated confidence, verified vs missing data, and explicit risks. Never invest money you cannot afford to lose.
 
